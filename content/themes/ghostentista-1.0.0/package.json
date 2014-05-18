@@ -1,0 +1,42 @@
+{
+  "name": "Ghostentista",
+  "description": "Ghost Theme - Responsive, AJAX driven, Semantic and Beautiful",
+  "author": {
+    "name": "Viktor Bezdek",
+    "url": "http://viktorbezdek.cz/"
+  },
+  "homepage": "http://etheeks.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/viktorbezdek/ghostentista/ghostentista.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viktorbezdek/ghostentista/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "version": "0.5.1",
+  "dependencies": {
+    "grunt-cli": "~0.1.11",
+    "grunt": "~0.4.2",
+    "grunt-csso": "~0.5.0",
+    "less": "~1.5.1",
+    "grunt-ez-frontend": "~0.2.2",
+    "grunt-autoprefixer": "~0.4.1",
+    "grunt-frontend": "~2.0.3",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-imagemin": "~0.5.0"
+  },
+  "engine": "node >= 0.10.1",
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-contrib-compress": "~0.6.1",
+    "grunt-responsive-images": "~0.1.1"
+  }
+}

@@ -1,0 +1,80 @@
+{
+	"/\\assets\\js\\index.min.js": {
+		"hash": "236a2426",
+		"date": "20140318181623",
+		"versioned": "/\\assets\\js\\index.min.js",
+		"files": [
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.slabtext.js",
+				"hash": "72104c34",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.slabtext.js"
+			},
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.fitvids.js",
+				"hash": "4deba82",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.fitvids.js"
+			},
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\salvattore.js",
+				"hash": "7d9b3254",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\salvattore.js"
+			},
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\index.js",
+				"hash": "3e7e0bf3",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\index.js"
+			}
+		]
+	},
+	"/\\assets\\js\\index.js": {
+		"hash": "78b23344",
+		"date": "20140318181623",
+		"versioned": "/\\assets\\js\\index.js",
+		"files": [
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.slabtext.js",
+				"hash": "72104c34",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.slabtext.js"
+			},
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.fitvids.js",
+				"hash": "4deba82",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\jquery.fitvids.js"
+			},
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\salvattore.js",
+				"hash": "7d9b3254",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\salvattore.js"
+			},
+			{
+				"file": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\index.js",
+				"hash": "3e7e0bf3",
+				"versioned": "G:\\Dropbox\\Prace\\Webs\\ghostentista\\src\\assets\\js\\index.js"
+			}
+		]
+	},
+	"/\\assets\\css\\style.min.css": {
+		"hash": "4c94aea9",
+		"date": "20140318181624",
+		"versioned": "/\\assets\\css\\style.min.css",
+		"files": [
+			{
+				"file": "/\\assets\\css\\style.css",
+				"hash": "4c94aea9",
+				"versioned": "/\\assets\\css\\style.css"
+			}
+		]
+	},
+	"/\\assets\\css\\style.css": {
+		"hash": "25fc74ad",
+		"date": "20140318181624",
+		"versioned": "/\\assets\\css\\style.css",
+		"files": [
+			{
+				"file": "/\\assets\\css\\style.css",
+				"hash": "25fc74ad",
+				"versioned": "/\\assets\\css\\style.css"
+			}
+		]
+	}
+}
